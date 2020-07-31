@@ -3,4 +3,4 @@
 
 [Archivo UML ](recursos/examen_uml.gif)
 
-[Documento del Examen en word](recursos/Examen - Programación 2.docx)
+[Documento del Examen en word](recursos/examen.docx)
